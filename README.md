@@ -1,21 +1,19 @@
 # ASRock B560 Pro4 Motherboard Hackintosh EFI - macOS VENTURA
 ## Please follow [this guide](/Pre-install.md) before using the bundled EFI.
-OpenCore bootloader that makes your ASRock B560M Pro4 runs macOS Big Sur and up!
-
-![image](https://user-images.githubusercontent.com/73286927/215160208-4051dcdd-5c66-408c-bc20-543cc0b578b8.png)
+OpenCore bootloader that makes your ASRock B560 Pro4 runs macOS Big Sur and up!
 
 ![image](https://sstech.lk/wp-content/uploads/2022/12/ANTEC-NX290-Gaming-Computer-Case-4.png)
 ## PC Specs:
-CPU: Intel® Core™ i7-11700F
-RAM: 4x 8GB G.Skill Ripjaws V F4-3200C16S-8GVKB
-GPU: ASROCK RX6600XT CLD 8GO
-SSD: Kingspec KC3000 1TB
-HDD: WD Blue 1TB WD10EZEX
-Motherboard: ASRock B560 Pro4
-PSU: ANTEC NeoECOMODULAR 650 WATTS
-Cooler: STOCK INTEL
-Case: ANTEX NX 290 
-Wireless Card: FENVI-T919
+* CPU: Intel® Core™ i7-11700F
+* RAM: 4x 8GB G.Skill Ripjaws V F4-3200C16S-8GVKB
+* GPU: ASROCK RX6600XT CLD 8GO
+* SSD: Kingspec KC3000 1TB
+* HDD: WD Blue 1TB WD10EZEX
+* Motherboard: ASRock B560 Pro4
+* PSU: ANTEC NeoECOMODULAR 650 WATTS
+* Cooler: STOCK INTEL
+* Case: ANTEX NX 290
+* Wireless Card: FENVI-T919
 
 ## Motherboard Specs:
 ![image](https://www.asrock.com/mb/photo/B560%20Pro4(L2).png)
