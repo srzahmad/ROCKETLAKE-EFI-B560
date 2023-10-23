@@ -24,15 +24,22 @@ Wireless Card: FENVI-T919
 
 ## Motherboard Specs:
 ![image](https://www.asrock.com/mb/photo/B560%20Pro4(L2).png)
-* Name: ASRock B560M Pro4
-* Chipset: Intel B560
-* Supports 10th Gen Intel® Core™ Processors and 11th Gen Intel® Core™ Processors
-* Ethernet: Intel® Gigabit LAN
-* Audio: Realtek ALC897 (layout-id 11)
-* Expansion Slots: 1x PCI-E (GEN 3) x16 socket, 1x M.2 socket 1 Key-A, 1x PCIe 4.0 x16, 1x PCIe 3.0 x16, 1x PCIe 3.0 x1, 1x M.2 Key-E for WiFi, 1x Hyper M.2 (PCIe Gen4 x4), 1x Ultra M.2 (PCIe Gen3 x4 & SATA3)
+Supports 10th Gen Intel® Core™ Processors and 11th Gen Intel® Core™ Processors
+8 Phase Power Design
+Supports DDR4 4800MHz (OC)
+1 x PCIe 4.0 x16, 1 x PCIe 3.0 x16, 2 x PCIe 3.0 x1
+1 x M.2 Key-E for WiFi
+Graphics Output Options: HDMI, DisplayPort
+7.1 CH HD Audio (Realtek ALC897 Audio Codec), Nahimic Audio
+6 SATA3, 1 x Hyper M.2 (PCIe Gen4 x4)
+1 x Ultra M.2 (PCIe Gen3 x4)
+1 x M.2 (PCIe Gen3 x2 & SATA3)
+8 x USB 3.2 Gen1 (4 x Rear, 4 x Front)
+4 x USB 2.0 (2 x Rear, 2 x Front)
+1 x Front USB 3.2 Gen1 Type-C
+Intel® Gigabit LAN
 
-**For more detailed info please visit [https://www.asrock.com/mb/Intel/B560M%20Pro4/](https://www.asrock.com/mb/Intel/B560%20Pro4/index.asp)**
-
+**For more detailed info please visit [(https://www.asrock.com/mb/Intel/B560%20Pro4/index.asp)](https://www.asrock.com/mb/Intel/B560%20Pro4/index.asp)
 ## ✅ Whats workin'
 * Full graphics acceleration with supported GPUs (`iMacPro1,1` or `MacPro7,1` is recommended)
 * DRM with AMD dGPU (`iMacPro1,1` and `MacPro7,1`) configuration. Please follow [**this guide**](https://dortania.github.io/OpenCore-Post-Install/universal/drm.html) for more information.
