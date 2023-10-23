@@ -1,4 +1,4 @@
-# ASRock B560M Pro4 Motherboard Hackintosh EFI - macOS 11+
+# ASRock B560 Pro4 Motherboard Hackintosh EFI - macOS VENTURA
 ## Please follow [this guide](/Pre-install.md) before using the bundled EFI.
 OpenCore bootloader that makes your ASRock B560M Pro4 runs macOS Big Sur and up!
 
@@ -10,28 +10,28 @@ Minecraft running smoothly on the same hack.
 
 ## PC Specs:
 ```
-CPU: Intel® Core™ i3-10105F
-RAM: 4x 8GB Adata XPG Gammix D10
-GPU: Biostar AMD Radeon RX 6600XT 8GB
-SSD: Kingspec P4-120 120GB
-HDD: WD Blue 1TB WD10EZEX + Seagate Momentus Thin 500GB
-Motherboard: ASRock B560M Pro4
-PSU: Coolermaster Elite V3 PC600 600W
-Cooler: Jonsbo CR-1400
-Case: Xigmatek Aero 2F
-Wireless Card: Broadcom BCM94360CS2 (taken from a real Mac)
+CPU: Intel® Core™ i7-11700F
+RAM: 4x 8GB G.Skill Ripjaws V F4-3200C16S-8GVKB
+GPU: ASROCK RX6600XT CLD 8GO
+SSD: Kingspec KC3000 1TB
+HDD: WD Blue 1TB WD10EZEX
+Motherboard: ASRock B560 Pro4
+PSU: ANTEC NeoECOMODULAR 650 WATTS
+Cooler: STOCK INTEL
+Case: ANTEX NX 290 
+Wireless Card: FENVI-T919
 ```
 
 ## Motherboard Specs:
-![image](https://user-images.githubusercontent.com/73286927/161385543-b69f7e3a-aea9-41d3-92e3-2e5b2392a48e.png)
+![image]([https://user-images.githubusercontent.com/73286927/161385543-b69f7e3a-aea9-41d3-92e3-2e5b2392a48e.png](https://www.asrock.com/mb/photo/B560%20Pro4(L2).png))
 * Name: ASRock B560M Pro4
 * Chipset: Intel B560
 * Supports 10th Gen Intel® Core™ Processors and 11th Gen Intel® Core™ Processors
 * Ethernet: Intel® Gigabit LAN
-* Audio: Realtek ALC897 (layout-id 66)
+* Audio: Realtek ALC897 (layout-id 11)
 * Expansion Slots: 1x PCI-E (GEN 3) x16 socket, 1x M.2 socket 1 Key-A, 1x PCIe 4.0 x16, 1x PCIe 3.0 x16, 1x PCIe 3.0 x1, 1x M.2 Key-E for WiFi, 1x Hyper M.2 (PCIe Gen4 x4), 1x Ultra M.2 (PCIe Gen3 x4 & SATA3)
 
-**For more detailed info please visit https://www.asrock.com/mb/Intel/B560M%20Pro4/**
+**For more detailed info please visit [https://www.asrock.com/mb/Intel/B560M%20Pro4/](https://www.asrock.com/mb/Intel/B560%20Pro4/index.asp)**
 
 ## ✅ Whats workin'
 * Full graphics acceleration with supported GPUs (`iMacPro1,1` or `MacPro7,1` is recommended)
