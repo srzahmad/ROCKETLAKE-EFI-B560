@@ -1,7 +1,7 @@
 # ASRock B560 Pro4 Motherboard Hackintosh EFI - macOS VENTURA
 ## Please follow [this guide](/Pre-install.md) before using the bundled EFI.
 OpenCore bootloader that makes your ASRock B560 Pro4 runs macOS Big Sur and up!
-
+![image](https://github.com/srzahmad/ROCKETLAKE-EFI-B560/blob/cbc842f586424910d9764382353b70c21e6a597f/Screenshot%202023-10-23%20at%2011.44.17%20AM.png)
 ![image](https://sstech.lk/wp-content/uploads/2022/12/ANTEC-NX290-Gaming-Computer-Case-4.png)
 ## PC Specs:
 * CPU: Intel® Core™ i7-11700F
