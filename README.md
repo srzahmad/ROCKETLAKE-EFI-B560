@@ -4,7 +4,7 @@ OpenCore bootloader that makes your ASRock B560M Pro4 runs macOS Big Sur and up!
 
 ![image](https://user-images.githubusercontent.com/73286927/215160208-4051dcdd-5c66-408c-bc20-543cc0b578b8.png)
 
-![image](https://www.antec.com/product/case/images/gallery-nx290-05.jpg)
+![image](https://sstech.lk/wp-content/uploads/2022/12/ANTEC-NX290-Gaming-Computer-Case-4.png)
 ## PC Specs:
 CPU: Intel® Core™ i7-11700F
 RAM: 4x 8GB G.Skill Ripjaws V F4-3200C16S-8GVKB
