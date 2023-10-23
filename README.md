@@ -23,7 +23,7 @@ Wireless Card: FENVI-T919
 ```
 
 ## Motherboard Specs:
-![image]([https://user-images.githubusercontent.com/73286927/161385543-b69f7e3a-aea9-41d3-92e3-2e5b2392a48e.png](https://www.asrock.com/mb/photo/B560%20Pro4(L2).png))
+![image](https://www.asrock.com/mb/photo/B560%20Pro4(L2).png)
 * Name: ASRock B560M Pro4
 * Chipset: Intel B560
 * Supports 10th Gen Intel® Core™ Processors and 11th Gen Intel® Core™ Processors
